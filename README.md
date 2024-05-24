@@ -1,3 +1,10 @@
+# Project Start
+- At first download the .zip file
+- Open it in vs code by using wsl:ubuntu
+- type 'dfx start' in one terminal and in other terminal 'dfx deploy'
+- After typing dfx deploy, type the 'npm start' in second terminal
+
+  
 # Check your Balance
 
 1. Find out your principal id:
