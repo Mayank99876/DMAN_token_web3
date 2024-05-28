@@ -3,6 +3,7 @@
 - Open it in vs code by using wsl:ubuntu
 - type 'dfx start' in one terminal and in other terminal 'dfx deploy'
 - After typing dfx deploy, type the 'npm start' in second terminal
+- There is also a problem in exporting functions of motoko file.
 
   
 # Check your Balance
